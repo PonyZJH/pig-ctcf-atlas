@@ -1,0 +1,39 @@
+################
+ChIP data: /work/bam/HS4M08b1W_CTCF_bowtie2.mapped.bam 
+Control data: NA 
+strandshift(min): -500 
+strandshift(step): 5 
+strandshift(max) 1500 
+user-defined peak shift NA 
+exclusion(min): 10 
+exclusion(max): NaN 
+num parallel nodes: NA 
+FDR threshold: 0.01 
+NumPeaks Threshold: NA 
+Output Directory: /work/bam 
+narrowPeak output file name: NA 
+regionPeak output file name: NA 
+Rdata filename: NA 
+plot pdf filename: /work/bam/HS4M08b1W_CTCF_bowtie2.mapped.pdf 
+result filename: /work/qc/phantompeak/HS4M08b1W_CTCF.qual 
+Overwrite files?: FALSE
+
+[1] TRUE
+Reading ChIP tagAlign/BAM file /work/bam/HS4M08b1W_CTCF_bowtie2.mapped.bam 
+opened /work/tmp/HS4M08b1W_CTCF_bowtie2.mapped.tagAlign3fe840ebf513
+done. read 59378144 fragments
+ChIP data read length 149 
+[1] TRUE
+Calculating peak characteristics
+Minimum cross-correlation value 0.4065781 
+Minimum cross-correlation shift 1500 
+Top 3 cross-correlation values 0.466710788347054,0.466703131782573 
+Top 3 estimates for fragment length 195,205 
+Window half size 585 
+Phantom peak location 150 
+Phantom peak Correlation 0.4569029 
+Normalized Strand cross-correlation coefficient (NSC) 1.1479 
+Relative Strand Cross correlation Coefficient (RSC) 1.194893 
+Phantom Peak Quality Tag 1 
+null device 
+          1 

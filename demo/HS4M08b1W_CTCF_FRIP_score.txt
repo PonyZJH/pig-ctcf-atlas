@@ -1,0 +1,3 @@
+Reads_in_peak: 10192630
+totalReads: 59378144
+FRiP value: 17.16%
